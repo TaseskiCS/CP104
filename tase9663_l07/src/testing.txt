@@ -1,0 +1,63 @@
+"""
+-------------------------------------------------------
+Lab 7
+-------------------------------------------------------
+Author:  Antonio Taseski
+ID:      169069663
+Email:   tase9663@mylaurier.ca
+Version: 2023-11-03
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Guess: 45
+Too high, try again.
+Guess: 35
+Too low, try again.
+Guess: 40
+Too high, try again.
+Guess: 37
+Too low, try again.
+Guess: 38
+Too low, try again.
+Guess: 39
+Congratulations - good guess!
+You made 5 guesses.
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+256
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+30
+-------------------------------------------------------
+t08
+-------------------------------------------------------
+Enter an expense (0 to quit): $150.00
+Enter another expense (0 to quit): $23.00
+Enter another expense (0 to quit): $12.00
+Enter another expense (0 to quit): $15.00
+Enter another expense (0 to quit): $37.50
+Enter another expense (0 to quit): $65.00
+Enter another expense (0 to quit): $0
+
+(302.50, -102.50, 'Deficit')
+-------------------------------------------------------
+t10
+-------------------------------------------------------
+Employee ID: 123
+Hourly wage rate: 45
+Hours worked: 46
+Net payment for employee 123: $2,125.07
+
+Employee ID: 124
+Hourly wage rate: 30
+Hours worked: 46
+Net payment for employee 124: $1,416.71
+
+Employee ID: 0
+
+(3,541.78, 1,770.89)
+-------------------------------------------------------
